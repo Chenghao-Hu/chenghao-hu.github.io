@@ -1,8 +1,11 @@
 ---
 permalink: /talks
 title: Talks
-Date: 2025-03-10
 type: page
+redirect_from: 
+  - /talks/
+  - //talks
+  - //talks/
 design: 
   columns: '1' 
   css_style: 'max-width: 100%; font-size: 16px !important;'
