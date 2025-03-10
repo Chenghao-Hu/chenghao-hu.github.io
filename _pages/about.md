@@ -9,7 +9,7 @@ redirect_from:
 
 Luckily, I have been on the journey to a linguist(syntactician) since 2017.
 
-After obtaining my Bachelor's Degree (in Linguistics and Language Application) at The City University of Hong Kong and my Master's Degree (in Linguistics) at University College London, I am currently working towards my Doctoral degree in Linguistics at The Chinese University of Hong Kong, starting in 2023. 
+After obtaining my Bachelor's Degree (in Linguistics and Language Application) at The City University of Hong Kong and my Master's Degree (in Linguistics) at University College London, I am currently working towards my Doctoral degree in Linguistics at The Chinese University of Hong Kong (supervisor: Prof. [Victor Junnan Pan](https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/)), starting in 2023. Also, I'm joint-supervised by Prof. [Klaus Abels](https://www.ucl.ac.uk/pals/people/klaus-abels) at UCL.
 
 I am now part of Prof. Victor Pan's Syntax Lab. Meet my lovely group members [here](https://victorjunnanpan.github.io/pansyntaxlab/).
 
