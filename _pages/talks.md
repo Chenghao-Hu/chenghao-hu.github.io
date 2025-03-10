@@ -3,8 +3,6 @@ permalink: /talks/
 title: Talks
 type: page
 author_profile: true
-redirect_from: 
-  - //talks/
 design: 
   columns: '1' 
   css_style: 'max-width: 100%; font-size: 16px !important;'
