@@ -13,12 +13,11 @@ design:
 
 Kim, Dahoon, **Chenghao Hu**, and Victor Junnan Pan. (2024). On Wh- and Existential Quantification: A Comparison between Mandarin and Korean, invited talk for the International Workshop of “International Research Network for the Human Language Faculty”, JSPS Core-to-Core Program of Japan Society for the Promotion of Science, Osaka University, Japan, December 7-8.
 
-**Hu, Chenghao** and Victor Junnan Pan. (2024). Plural Markers and Classifiers as Anti-labelers in Japanese and Chinese, oral presentation at the joint conference of The 26th Seoul International Conference on Generative Grammar (SICOGG 26) and The 18th Workshop on Altaic Formal Linguistics (WAFL 18), Jeonbuk National University, Jeonju, August 22-24.
+**Hu, Chenghao** and Victor Junnan Pan. (2024). Plural Markers and Classifiers as Anti-labelers in Japanese and Chinese, oral presentation at [the joint conference of The 26th Seoul International Conference on Generative Grammar (SICOGG 26) and The 18th Workshop on Altaic Formal Linguistics (WAFL 18)](https://sites.google.com/view/sicoggwafl2024/), Jeonbuk National University, Jeonju, August 22-24.
     
-**Hu, Chenghao** and Victor Junnan Pan. (2024). Anti-Labeling and Phases: on the Syntax of Mandarin Plural Markers, oral presentation at The 30th Annual Conference of the International Association of Chinese Linguistics (IACL-30), Yonsei University, May 25-27.
+**Hu, Chenghao** and Victor Junnan Pan. (2024). Anti-Labeling and Phases: on the Syntax of Mandarin Plural Markers, oral presentation at The [30th Annual Conference of the International Association of Chinese Linguistics (IACL-30)](https://g.h5gd.com/p/axrujljv), Yonsei University, May 25-27.
     
-**Hu, Chenghao** and Victor Junnan Pan. (2024). An Agreement Approach to the Peripheral Projection Encoded Finiteness in Mandarin, poster presentation at The 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV), The Chinese University of Hong Kong, March 6-8.
-![image](https://github.com/user-attachments/assets/329612df-718c-4c74-a3c6-f91808c5a22a)
+**Hu, Chenghao** and Victor Junnan Pan. (2024). An Agreement Approach to the Peripheral Projection Encoded Finiteness in Mandarin, poster presentation at [The 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)](https://ling.cuhk.edu.hk/glowxiv/), The Chinese University of Hong Kong, March 6-8.
 
 
 ## **Presentations in 2023**
