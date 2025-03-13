@@ -11,7 +11,7 @@ design:
 
 ## **Presentations in 2025**
 
-Hu, Chenghao and Victor Junnan Pan. (2025). Chinese Nominal Structure: on Plural Marker and Pronouns, oral presentation at 34th Colloquium on Generative Grammar ([CGG34](https://sites.google.com/view/cgg34)), National University of Distance Education (UNED), Madrid, May 7-9.
+**Hu, Chenghao** and Victor Junnan Pan. (2025). Chinese Nominal Structure: on Plural Marker and Pronouns, oral presentation at 34th Colloquium on Generative Grammar ([CGG34](https://sites.google.com/view/cgg34)), National University of Distance Education (UNED), Madrid, May 7-9.
 
 
 ## **Presentations in 2024**
