@@ -9,6 +9,11 @@ design:
 
 ---
 
+## **Presentations in 2025**
+
+Hu, Chenghao and Victor Junnan Pan. (2025). Chinese Nominal Structure: on Plural Marker and Pronouns, oral presentation at 34th Colloquium on Generative Grammar ([CGG34](https://sites.google.com/view/cgg34)), National University of Distance Education (UNED), Madrid, May 7-9.
+
+
 ## **Presentations in 2024**
 
 Kim, Dahoon, **Chenghao Hu**, and Victor Junnan Pan. (2024). On Wh- and Existential Quantification: A Comparison between Mandarin and Korean, invited talk for the International Workshop of “International Research Network for the Human Language Faculty”, JSPS Core-to-Core Program of Japan Society for the Promotion of Science, Osaka University, Japan, December 7-8.
