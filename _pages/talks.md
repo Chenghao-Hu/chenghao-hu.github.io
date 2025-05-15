@@ -11,6 +11,8 @@ design:
 
 ## **Presentations in 2025**
 
+**Hu, Chenghao** and Victor Junnan Pan. (2025). A base-generation approach to sentence-initial root modal auxiliaries in Chinese, oral presentation at [Workshop on the Syntax and Semantics of Auxiliaries](https://www.sfl.cnrs.fr/fr/synsem-colloque-syntaxe-et-semantique-des-auxiliaires), UPS Pouchet, Paris, June 23-24.
+
 **Hu, Chenghao** and Victor Junnan Pan. (2025). Chinese Nominal Structure: on Plural Marker and Pronouns, oral presentation at 34th Colloquium on Generative Grammar ([CGG34](https://sites.google.com/view/cgg34)), National University of Distance Education (UNED), Madrid, May 7-9.
 
 
