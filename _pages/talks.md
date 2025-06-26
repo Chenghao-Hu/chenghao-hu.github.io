@@ -11,6 +11,8 @@ design:
 
 ## **Presentations in 2025**
 
+**Hu, Chenghao** and Victor Junnan Pan. (2025). On subject licensing in Chinese: implications of sentence-initial root modals, oral presentation at The 27th Seoul International Conference on Generative Grammar [SICOGG 27](https://sites.google.com/view/sicogg27/home), Sogang University, Seoul, Korea, August 14-16.
+
 **Hu, Chenghao** and Victor Junnan Pan. (2025). A base-generation approach to sentence-initial root modal auxiliaries in Chinese, oral presentation at [Workshop on the Syntax and Semantics of Auxiliaries](https://www.sfl.cnrs.fr/fr/synsem-colloque-syntaxe-et-semantique-des-auxiliaires), UPS Pouchet, Paris, June 23-24.
 
 **Hu, Chenghao** and Victor Junnan Pan. (2025). Chinese Nominal Structure: on Plural Marker and Pronouns, oral presentation at 34th Colloquium on Generative Grammar ([CGG34](https://sites.google.com/view/cgg34)), National University of Distance Education (UNED), Madrid, May 7-9.
