@@ -13,9 +13,9 @@ design:
 
 Li, Wency Wanxin and **Chenghao Hu**. (2026). A corpus study on the acquisition of Sentence-Final Particles in Cantonese and Mandarin, oral presentation at the 32nd Annual Conference of the International Association of Chinese Linguistics [(IACL-32)](http://iacl-linguistics.org/#/), Guangdong University of Foreign Studies, Guangzhou, China, June 12–14.
 
- **Chenghao Hu**. (2026). The syntactic distribution of Chinese modals and its implications on nominal licensing, oral presentation at Manchester Forum in Linguistics [(MFiL 2026)](https://mfilconf.wordpress.com/), The University of Manchester, Manchester, UK, 30th April – 1st May.
+ **Hu, Chenghao**. (2026). The syntactic distribution of Chinese modals and its implications on nominal licensing, oral presentation at Manchester Forum in Linguistics [(MFiL 2026)](https://mfilconf.wordpress.com/), The University of Manchester, Manchester, UK, 30th April – 1st May.
 
- **Chenghao Hu**. (2026). On Mandarin modals and the distribution of subjects, invited talk at [ChiLL (Chinese Linguistics in Leiden) series](https://www.universiteitleiden.nl/en/events/2026/04/on-mandarin-modals-and-the-distribution-of-subjects), Leiden University, Leiden, Netherlands.
+ **Hu, Chenghao**. (2026). On Mandarin modals and the distribution of subjects, invited talk at [ChiLL (Chinese Linguistics in Leiden) series](https://www.universiteitleiden.nl/en/events/2026/04/on-mandarin-modals-and-the-distribution-of-subjects), Leiden University, Leiden, Netherlands.
 
 
 ## **Presentations in 2025**
