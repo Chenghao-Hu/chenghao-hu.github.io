@@ -8,6 +8,10 @@ design:
   css_style: 'max-width: 100%; font-size: 16px !important;'
 
 ---
+## **Journal Papers**
+
+Song, Chenchen and **Chenghao Hu**. (2026). Encoding speaker attitude in result: a study of the infix *tɕi* in Xinchang Wu resultative compounds. *Journal of East Asian Linguist 35*, 11. [Access(https://rdcu.be/ffNQJ)]
+
 
 ## **Conference Proceedings**
 
