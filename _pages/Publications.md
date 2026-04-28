@@ -10,7 +10,7 @@ design:
 ---
 ## **Journal Papers**
 
-Song, Chenchen and **Chenghao Hu**. (2026). Encoding speaker attitude in result: a study of the infix *tɕi* in Xinchang Wu resultative compounds. *Journal of East Asian Linguistics* 35, 11. [Access(https://rdcu.be/ffNQJ)]
+Song, Chenchen and **Chenghao Hu**. (2026). Encoding speaker attitude in result: a study of the infix *tɕi* in Xinchang Wu resultative compounds. *Journal of East Asian Linguistics* 35, 11. [Access](https://rdcu.be/ffNQJ)
 
 
 ## **Conference Proceedings**
