@@ -10,7 +10,7 @@ design:
 ---
 ## **Journal Papers**
 
-**Hu, Chenghao** and Victor Junnan Pan. (forthcoming). On the plural marker *men* in Chinese. *Catalan Journal of Linguistics*.
+**Hu, Chenghao** and Victor Junnan Pan. (forthcoming). On the plural marker *men* in Chinese. *Catalan Journal of Linguistics*.[[Link]](https://doi.org/10.5565/rev/catjl.576)
 
 Song, Chenchen and **Chenghao Hu**. (2026). Encoding speaker attitude in result: a study of the infix *tɕi* in Xinchang Wu resultative compounds. *Journal of East Asian Linguistics* 35, 11. [[Link]](https://doi.org/10.1007/s10831-026-09321-y)
 
