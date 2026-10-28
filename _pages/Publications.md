@@ -10,7 +10,7 @@ design:
 ---
 ## **Journal Papers**
 
-**Hu, Chenghao** and Victor Junnan Pan. (forthcoming). On the plural marker *men* in Chinese. *Catalan Journal of Linguistics*. [[Link]](https://doi.org/10.5565/rev/catjl.576)
+**Hu, Chenghao** and Victor Junnan Pan. (2026). On the plural marker *men* in Chinese. *Catalan Journal of Linguistics*, 25(2), 151–191. [[Link]](https://doi.org/10.5565/rev/catjl.576)
 
 Victor Junnan Pan and **Chenghao Hu**. (2026). Derivation with parallel workspaces in the free-MERGE system. *Studies in Generative Grammar* 36, 3. [[Link]](https://doi.org/10.15860/sigg.36.3.202608.573)
 
